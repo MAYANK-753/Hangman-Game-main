@@ -1,1 +1,2 @@
-# Hangman-Game-main
+# HANGMAN Game
+This is word guessing game
